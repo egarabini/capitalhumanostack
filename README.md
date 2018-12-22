@@ -1,0 +1,2 @@
+# capitalhumanostack
+Estudos Jamstack
